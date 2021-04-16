@@ -5,7 +5,7 @@
  * Date: 07/07/2020
  */
 
-package br.com.urionline.matematica;
+package br.com.phmiranda.torneio.matematica;
 
 public class D1028 {
     // comment

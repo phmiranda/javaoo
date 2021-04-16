@@ -5,7 +5,7 @@
  * Date: 07/07/2020
  */
 
-package br.com.urionline.strings;
+package br.com.phmiranda.torneio.strings;
 
 public class D1024 {
     // comment

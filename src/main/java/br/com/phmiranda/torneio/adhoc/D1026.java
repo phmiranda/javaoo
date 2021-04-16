@@ -5,7 +5,7 @@
  * Date: 07/07/2020
  */
 
-package br.com.urionline.adhoc;
+package br.com.phmiranda.torneio.adhoc;
 
 public class D1026 {
     // comment

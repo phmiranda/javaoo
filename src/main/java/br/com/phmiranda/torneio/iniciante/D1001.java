@@ -5,18 +5,21 @@
  * Date: 07/07/2020
  */
 
-package br.com.urionline.iniciante;
+package br.com.phmiranda.torneio.iniciante;
 
 public class D1001 {
     public static void main(String[] args) {
-        System.out.println("Digite o primeiro número.");
-        System.out.println("Digite o segundo número.");
+        /* declara as variáveis */
         int a, b, x;
+
+        /* atribui os valores as variáveis declaradas */
         a = 10;
         b = 9;
 
+        /* executa o cálculo */
         x = a + b;
 
+        /* imprime o resultado na tela */
         System.out.println("X = " + x);
     }
 }

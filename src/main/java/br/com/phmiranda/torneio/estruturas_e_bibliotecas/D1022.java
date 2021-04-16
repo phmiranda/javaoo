@@ -5,7 +5,7 @@
  * Date: 07/07/2020
  */
 
-package br.com.urionline.estruturas_e_bibliotecas;
+package br.com.phmiranda.torneio.estruturas_e_bibliotecas;
 
 public class D1022 {
     // comment
